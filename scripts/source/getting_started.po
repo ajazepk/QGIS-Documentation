@@ -7,11 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation Project 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-20 16:48\n"
+"POT-Creation-Date: 2013-04-29 19:57\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -732,18 +731,3 @@ msgstr ""
 "मेनू विकल्प :menuselection:`फाइल-->` |mActionNewComposer| "
 ":menuselection:`नया प्रिंट संगीतकार` एक संवाद खोलता जहां आप लेआउट और वर्तमान "
 "नक्शा कैनवास प्रिंट कर सकते हैं (सेक्शन देखें :ref:`label_printcomposer`)."
-
-# e018c570e31246d2b1a6b93979135f47
-#: ../../source/docs/user_manual/introduction/getting_started.rst:191
-msgid "command line options"
-msgstr "कमांड लाइन विकल्प "
-
-# 316a9d5d071a48dbb1e1e9f7973a8348
-#: ../../source/docs/user_manual/introduction/getting_started.rst:352
-msgid "output save as image"
-msgstr ""
-
-# 084ede89d9e246f4b1152d3c87df199c
-#: ../../source/docs/user_manual/introduction/getting_started.rst:354
-msgid "print composer quick print"
-msgstr ""

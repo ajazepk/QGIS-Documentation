@@ -7,10 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation Project 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 19:57\n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -282,10 +283,10 @@ msgid ""
 "section :ref:`sec_ogc`)."
 msgstr ""
 "QGIS का इस्तेमाल डेटा को मैपफाइल  में निर्यात करने और स्थापित युएमएन "
-"मैपसर्वर वेबसर्वर द्वारा इंटरनेट पर प्रकाशित करने के लिए किया जा सकता है. "
+"मैपसर्वर वेबसर्वर द्वारा इंटरनेट पर प्रकाशित करने के लिए किया जा सकता है "
 "QGIS डब्लूएमएस, डब्लूएमएस-सी या डब्लूएफएस और डब्लूएफएस-टी ग्राहक के रूप में "
-"एवं, और डब्लूएमएस या डब्लूएमएस सेवक के रूप में इस्तेमाल किया जा सकता है. "
-"(अनुभाग देखें:ref:`sec_ogc`)"
+"एवं, और डब्लूएमएस या डब्लूएमएस सेवक के रूप में इस्तेमाल किया जा सकता है "
+"(अनुभाग देखें:ref:`sec_ogc`)."
 
 # c22b3981a0f949628122ee1e53bab5aa
 #: ../../source/docs/user_manual/preamble/features.rst:94
@@ -627,7 +628,7 @@ msgid ""
 "click on a vector feature and execute an action"
 msgstr ""
 "कार्यवाही उपकरण अब नक्शा उपकरण पट्टी से पहुँचा जा सकता है और आपको अनुमति "
-"देता है की वेक्टर सुविधा पर क्लिक करें और क्रिया को निष्पादित करें."
+"देता है की वेक्टर सुविधा पर क्लिक करें और क्रिया को निष्पादित करें"
 
 # ab592a2e5693496995b9c08e7111c7f1
 #: ../../source/docs/user_manual/preamble/features.rst:192
@@ -706,9 +707,9 @@ msgid ""
 "Raster, Web and many plugins were updated to place their menus in the new "
 "Vector, Raster and Web top level menus"
 msgstr ""
-"मेनू को पुनः संयोजित किया गया है - अब हमरे पास नए मेनू है वेक्टर, रेखापुंज, "
-"वेब के लिए तथा प्लगइनस को अपडेट किया गया है ताकि वेक्टर, रेखापुंज और वेब को "
-"शीर्ष स्तर मेनू में जोड़ा जा सके."
+"मेनू को पुनः संयोजित किया गया है अब हमरे पास नए मेनू है वेक्टर रेखापुंज, वेब "
+"के लिए तथा प्लगइनस को अपडेट किया गया है ताकि वेक्टर रेखापुंज और वेब को शीर्ष "
+"स्तर मेनू में जोड़ा जा सके"
 
 # e177060291fb489ca398db0853b21290
 #: ../../source/docs/user_manual/preamble/features.rst:210

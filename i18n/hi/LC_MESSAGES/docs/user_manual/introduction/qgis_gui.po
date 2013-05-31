@@ -7,10 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation Project 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 19:57\n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,6 +32,11 @@ msgstr ""
 "जब QGIS की शुरुआत होती है, तो आपके सामने नीचे दिखाया गया जीयूआई आता है  "
 "(संख्या 1 से 5 पीले रंग के अंडाकार इंटरफ़ेस के छह प्रमुख क्षेत्रों को रेफेर "
 "करते हैं जिनकी आगे चर्चा की गयी है):"
+
+# 14e33e0528f1420889859cf04d778a08
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:0
+msgid "QGIS GUI with Alaska sample data |nix|"
+msgstr ""
 
 # 67f9b01b7d204df9b59f24183b6289e7
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:33
@@ -488,13 +494,9 @@ msgstr ":menuselection:`हाल की परियोजना खोले�
 # 057b0a7b69c04793989d57b8438622b6
 # 51275c2ed5814f00b5f122b25e78404f
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:78
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:78
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:81
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:81
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:83
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:84
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:84
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:85
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:85
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:100
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:101
@@ -516,8 +518,6 @@ msgstr ":menuselection:`हाल की परियोजना खोले�
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:131
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:132
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:141
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:141
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:142
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:142
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:143
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:144
@@ -526,133 +526,73 @@ msgstr ":menuselection:`हाल की परियोजना खोले�
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:147
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:148
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:149
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:149
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:150
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:151
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:151
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:152
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:152
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:153
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:153
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:154
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:154
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:155
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:155
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:159
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:168
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:169
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:169
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:176
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:177
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:178
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:179
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:180
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:180
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:181
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:181
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:182
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:182
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:183
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:183
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:184
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:184
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:185
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:185
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:186
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:186
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:186
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:187
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:187
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:188
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:188
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:189
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:189
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:190
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:190
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:190
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:191
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:191
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:191
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:192
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:192
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:192
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:193
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:193
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:193
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:194
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:195
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:195
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:195
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:196
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:196
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:196
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:197
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:198
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:207
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:207
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:208
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:208
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:209
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:209
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:210
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:211
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:211
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:212
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:212
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:213
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:213
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:213
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:214
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:214
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:215
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:215
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:216
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:216
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:216
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:225
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:225
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:226
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:226
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:227
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:227
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:227
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:228
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:238
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:238
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:239
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:239
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:240
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:240
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:241
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:242
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:242
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:243
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:243
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:244
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:245
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:245
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:246
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:246
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:247
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:256
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:256
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:257
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:258
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:259
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:260
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:260
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:261
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:262
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:262
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:263
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:263
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:264
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:264
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:265
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:265
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:266
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:266
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:267
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:267
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:276
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:277
@@ -663,18 +603,9 @@ msgstr ":menuselection:`हाल की परियोजना खोले�
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:298
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:299
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:300
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:300
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:300
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:301
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:301
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:302
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:302
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:302
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:303
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:303
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:303
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:304
-#: ../../source/docs/user_manual/introduction/qgis_gui.rst:304
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:304
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:307
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:428
@@ -2504,6 +2435,11 @@ msgstr ""
 "में प्रदर्शित कर सकें. |checkbox| :guilabel:`नियंत्रण प्रतिपादन क्रम` जो की "
 "परतों की सूची के नीचे है इसे चेक करने पर डिफ़ॉल्ट व्यवहार पे वापस आ सकते हैं."
 
+# 5842642d388d4c448e0ea00a948bb70d
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:0
+msgid "Define a legend independent layer order |nix|"
+msgstr "लिजेंड स्वतंत्र परत आदेश के साथ कार्य करना|nix|"
+
 # 26f6c3ae60404810bac49bef00f64dd2
 #: ../../source/docs/user_manual/introduction/qgis_gui.rst:515
 msgid ""
@@ -2661,3 +2597,56 @@ msgstr ""
 "संदर्भ सिस्टम (सीआरएस) पर क्लिक करके चयन कर सकते हैं. आखरी मामले में इकाइयां "
 "परियोजना प्रोजेक्शन द्वारा निर्दिष्ट इकाइ में सेट हों जाती जैसे  "
 "'+इकाइयां=m'."
+
+# a0ab6bf811eb41a98b7899c4c7bc1c64
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:53
+msgid "menus"
+msgstr ""
+
+# 307bcf8af1774005a585251cf384c87e
+# 4f8ba85d8d4442f7a6b580da934fa761
+# 45fec0a7e6ac4fd5add7e20aa3a43a14
+# ef51e970e9ee413f8e7bda0101be7d8a
+# 84e69cc98ff1479e9a02d58f9c9b9b41
+# 60dbe22175fd497aadf1eef18eda51b7
+# 1c1258b78bd041a4a49246110437aabc
+# 271f99a592264ee3888ae392edb69e94
+# b3e03b8ba760422c8292adba61108dd8
+# 375224737af840a099efb22ab8c8f1d8
+# da8c9b2f7610492eb4e4e37d7921f9d6
+# f56a5a37db444214848f855c05a88ea4
+# 0db197dd20a549fc96efa56ff00e909c
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:343
+msgid "toolbar"
+msgstr "उपकरणपट्टी"
+
+# 91eb7c961ee9447db43d87c0ad67a54a
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:355
+msgid "layout toolbars"
+msgstr ""
+
+# 121e419c29e54ca694b0b994f1eacee8
+# 919e72839db14f57937546cb0aebbb21
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:373
+msgid "legend"
+msgstr "लीजेंड"
+
+# 6331aef9cded4bf3856c9c0e3d57aa36
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:379
+msgid "layer visibility"
+msgstr ""
+
+# 6c381569123a4bf29f5fe3ed2eea4414
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:524
+msgid "zoom mouse wheel"
+msgstr ""
+
+# 59523eb054a647d0b82509432aa88987
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:540
+msgid "pan arrow keys"
+msgstr ""
+
+# 02115893e6a2402ca8dedbabbc8af31d
+#: ../../source/docs/user_manual/introduction/qgis_gui.rst:587
+msgid "scale calculate"
+msgstr ""

@@ -19,8 +19,8 @@ mkdir -p ${BUILDDIR}
 VERSION=`cat source/conf.py | grep "version = '.*'" | grep -o "[0-9]\.[0-9]"`
 
 # output dirs
-PDFDIR=`pwd`/output/${VERSION}/pdf
-HTMLDIR=`pwd`/output/${VERSION}/html
+PDFDIR=./output/${VERSION}/pdf
+HTMLDIR=./output/${VERSION}/html
 mkdir -p ${PDFDIR}
 mkdir -p ${HTMLDIR}
 
@@ -48,7 +48,7 @@ LOCALES+=' en'
 if [ $1 ]; then
   LOCALES=$1
 fi
-
+echo ${LOCALES}
 for LOCALE in ${LOCALES}
 # Compile the html docs for this locale
 do

@@ -1,18 +1,19 @@
-# कुछ वर्णनात्मक शीर्षक.
-# कॉपीराइट (सी) २०१२, QGIS परियोजना
-# यह फाइल QGIS प्रलेखन परियोजना पैकेज के समान लाइसेंस के तहत वितरित कि जाती है.
-# पहले लेखक <ajazepk@yahoo>, २०१३.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, QGIS project
+# This file is distributed under the same license as the QGIS Documentation Project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR
 msgid ""
 msgstr ""
-"परियोजना आईडी संस्करण: QGIS प्रलेखन परियोजना 2.0\n"
-"पाठ्य-त्रुटि रिपोर्ट करने के लिए:\n"
-"POT निर्माण-दिनांक: 2013/04/29 19:57\n"
-"पीओ संशोधन दिनांक: 2013-04-30 एचओ: एमआई + जोन\n"
-"अंतिम अनुवादक: एजाज़ परवेज़ खान  <ajazepk@gmail.com>\n"
-"भाषा-टीम: भाषा <hi@li.org>\n"
-"माइम-संस्करण: 1.0\n"
-"सामग्री प्रकार: पाठ / सादे, अक्षरसमुह= UTF-8\n"
-"सामग्री स्थानांतरण एन्कोडिंग: 8 बिटX-Language: hi_IN\n"
+"Project-Id-Version: QGIS Documentation Project 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "X-Language: hi_IN\n"
 
 # d719b987d88844d39caebc7bcca01ea1
@@ -80,7 +81,7 @@ msgstr ""
 # 5e968156bf504585b5d32b39a756bb6d
 #: ../../source/docs/user_manual/preamble/preamble.rst:34
 msgid "**Links in this Document**"
-msgstr "**इस दस्तावेज़ में कड़ियाँ**"
+msgstr "इस दस्तावेज़ में कड़ियाँ"
 
 # a2c416df06f94cc99196cf4f348f5690
 #: ../../source/docs/user_manual/preamble/preamble.rst:36
@@ -100,7 +101,7 @@ msgstr ""
 # e2c99837def04fb78f78519f3cc6d7ab
 #: ../../source/docs/user_manual/preamble/preamble.rst:42
 msgid "**User, Installation and Coding Guide Authors and Editors:**"
-msgstr "**उपयोगकर्ता, स्थापना और कोडिंग गाइड के लेखक और संपादक: **"
+msgstr "उपयोगकर्ता स्थापना और कोडिंग गाइड के लेखक और संपादक"
 
 # ddb268765ceb499ea4d4d5aa92cad8cd
 #: ../../source/docs/user_manual/preamble/preamble.rst:45
@@ -234,7 +235,6 @@ msgstr "टीम सुत्तों"
 
 # 2cc5dbb33ef24095b53bd474020e536f
 #: ../../source/docs/user_manual/preamble/preamble.rst:55
-#, fuzzy
 msgid "Alex Bruy"
 msgstr "अले बुरी"
 
@@ -261,7 +261,7 @@ msgstr "\\\\"
 # 0dad6d3ed84e4b98b77a3cac34f383d5
 #: ../../source/docs/user_manual/preamble/preamble.rst:60
 msgid "**Sponsors**"
-msgstr "** प्रायोजक **"
+msgstr "प्रायोजक "
 
 # 2621d409e76a4e4ab55cb5c81a80e74e
 #: ../../source/docs/user_manual/preamble/preamble.rst:62
@@ -282,12 +282,12 @@ msgstr "प्रकाशनाधिकार (c) 2004-2013 QGIS विका�
 # 243b3eff8bc04a38babf3780bcf77fe5
 #: ../../source/docs/user_manual/preamble/preamble.rst:73
 msgid "**Internet:** http://www.qgis.org"
-msgstr "** इंटरनेट: ** http://www.qgis.org"
+msgstr "इंटरनेट: http://www.qgis.org"
 
 # 808994135e424021aeb52fd13859f26f
 #: ../../source/docs/user_manual/preamble/preamble.rst:75
 msgid "**License of this document**"
-msgstr "** इस दस्तावेज़ का लाइसेंस **"
+msgstr "इस दस्तावेज़ का लाइसेंस"
 
 # 4cdcc92e6906455ca397df485f1500d1
 #: ../../source/docs/user_manual/preamble/preamble.rst:77

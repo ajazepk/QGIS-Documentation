@@ -7,10 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation Project 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 19:57\n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -85,7 +86,7 @@ msgstr ""
 # 6516acf8f66446318f8d87648332d70a
 #: ../../source/docs/user_manual/preamble/foreword.rst:40
 msgid "**Up-to-date Documentation**"
-msgstr "**आधुनिकतम दस्तावेज़ीकरण**"
+msgstr "आधुनिकतम दस्तावेज़ीकरण"
 
 # 5e0f743d17c542da8cc14acb4f72e311
 #: ../../source/docs/user_manual/preamble/foreword.rst:42
@@ -424,3 +425,8 @@ msgstr ""
 "पहला ही हों, हम इसे एक बहुभुज कहते हैं. एक त्रिकोण, वृत्त, आयत, आदि सभी "
 "बहुभुज हैं. बहुभुज की प्रमुख विशेषता यह है की उनके भीतर एक निश्चित क्षेत्र "
 "है."
+
+# 6516acf8f66446318f8d87648332d70a
+#: ../../source/docs/user_manual/preamble/foreword.rst:37
+msgid "documentation"
+msgstr "आधुनिकतम दस्तावेज़ीकरण"

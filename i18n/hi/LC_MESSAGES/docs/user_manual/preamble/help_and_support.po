@@ -1,18 +1,19 @@
-# कुछ वर्णनात्मक शीर्षक.
-# कॉपीराइट (सी) २०१२, QGIS परियोजना
-# यह फाइल QGIS प्रलेखन परियोजना पैकेज के समान लाइसेंस के तहत वितरित कि जाती है.
-# पहले लेखक <ajazepk@yahoo>, २०१३.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, QGIS project
+# This file is distributed under the same license as the QGIS Documentation Project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR
 msgid ""
 msgstr ""
-"परियोजना आईडी संस्करण: QGIS प्रलेखन परियोजना 2.0\n"
-"पाठ्य-त्रुटि रिपोर्ट करने के लिए:\n"
-"POT निर्माण-दिनांक: 2013/04/29 19:57\n"
-"पीओ संशोधन दिनांक: 2013-04-30 एचओ: एमआई + जोन\n"
-"अंतिम अनुवादक: एजाज़ परवेज़ खान <ajazepk@gmail.com>\n"
-"भाषा-टीम: भाषा <hi@li.org>\n"
-"माइम-संस्करण: 1.0\n"
-"सामग्री प्रकार: पाठ / सादे, अक्षरसमुह= UTF-8\n"
-"सामग्री स्थानांतरण एन्कोडिंग: 8 बिटX-Language: hi_IN\n"
+"Project-Id-Version: QGIS Documentation Project 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "X-Language: hi_IN\n"
 
 # 9440b7ba37f24f9282091657f521a8ba
@@ -54,7 +55,7 @@ msgstr ""
 "इस मेलिंग सूची में सामान्य क्युजीआईएस की चर्चा , साथ ही इसकी स्थापना और "
 "उपयोग के बारे में विशिष्ट प्रश्न के लिए प्रयोग की जाती है. URL: "
 "Http://lists.osgeo.org/mailman/listinfo/qgis-user:  पर जाकर आप क्युजीआईएस "
-"उपयोगकर्ताओं मेलिंग सूची की सदस्यता ले सकते."
+"उपयोगकर्ताओं मेलिंग सूची की सदस्यता ले सकते"
 
 # 63b9381b4fa14e1ea3dc6192dcb73694
 #: ../../source/docs/user_manual/preamble/help_and_support.rst:30
@@ -74,7 +75,7 @@ msgstr ""
 "सूची प्रदान करता है. इस मेलिंग सूची का क्युजीआईएस सहित सामान्य रूप में खुला "
 "स्रोत जीआईएस की चर्चा के लिए प्रयोग किया जाता है. "
 "URL:Https://lists.fossgis.de/mailman/listinfo/fossgis-talk-liste पर जाकर "
-"फोस्सजीआईएस -बात-सूची मेलिंग सूची की सदस्यता ले सकते."
+"फोस्सजीआईएस -बात-सूची मेलिंग सूची की सदस्यता ले सकते"
 
 # 5d398185a4704527a8b76e7b6a275b6b
 #: ../../source/docs/user_manual/preamble/help_and_support.rst:39

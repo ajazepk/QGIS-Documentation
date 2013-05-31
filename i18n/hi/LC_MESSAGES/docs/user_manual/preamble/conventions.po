@@ -1,18 +1,20 @@
-# कुछ वर्णनात्मक शीर्षक.
-# कॉपीराइट (सी) २०१२, QGIS परियोजना
-# यह फाइल QGIS प्रलेखन परियोजना पैकेज के समान लाइसेंस के तहत वितरित कि जाती है.
-# पहले लेखक <ajazepk@yahoo>, २०१३.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2012, QGIS project
+# This file is distributed under the same license as the QGIS Documentation Project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR
 msgid ""
 msgstr ""
-"परियोजना आईडी संस्करण: QGIS प्रलेखन परियोजना 2.0\n"
-"पाठ्य-त्रुटि रिपोर्ट करने के लिए:\n"
-"POT निर्माण-दिनांक: 2013/04/29 19:57\n"
-"पीओ संशोधन दिनांक: 2013-04-30 एचओ: एमआई + जोन\n"
-"अंतिम अनुवादक: एजाज़ परवेज़ खान <ajazepk@gmail.com>\n"
-"भाषा-टीम: भाषा <hi@li.org>\n"
-"माइम-संस्करण: 1.0\n"
-"सामग्री प्रकार: पाठ / सादे, अक्षरसमुह= UTF-8\n"
-"सामग्री स्थानांतरण एन्कोडिंग: 8 बिटX-Language: hi_IN\n"
+"Project-Id-Version: QGIS Documentation Project 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-20 16:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Language: hi_IN\n"
 
 # 7438ed00cb4c49589dfa61acf446370c
 #: ../../source/docs/user_manual/preamble/conventions.rst:11
@@ -62,7 +64,7 @@ msgstr "उपकरण: | mActionAddRasterLayer | :sup:`एक रेखाप�
 # 78f14c0f45ee468eaad105753baf65ae
 #: ../../source/docs/user_manual/preamble/conventions.rst:26
 msgid "Button : **\\[Save as Default\\]**"
-msgstr "बटन: ** \\ [डिफ़ॉल्ट रूप में सहेजें \\] **"
+msgstr "बटन: \\ [ डिफ़ॉल्ट रूप में सहेजें \\] "
 
 # 877b5ebdc1a940ff90bb8ef8f61fd1b7
 #: ../../source/docs/user_manual/preamble/conventions.rst:27
@@ -161,17 +163,17 @@ msgstr "फ़ाइल का नाम: :file:`lakes.shp`"
 # a90bc17aee57492e91d3100b8ec82c68
 #: ../../source/docs/user_manual/preamble/conventions.rst:55
 msgid "Name of a Class: **NewLayer**"
-msgstr "वर्ग का नाम: **NewLayer**"
+msgstr "वर्ग का नाम : NewLayer"
 
 # 37721e9cb7af455a91703eaa642a441b
 #: ../../source/docs/user_manual/preamble/conventions.rst:56
 msgid "Method: *classFactory*"
-msgstr "विधि: *classFactory*"
+msgstr "विधि : classFactory"
 
 # a9adba785f6d4ddb8ee1319b96d8f2cd
 #: ../../source/docs/user_manual/preamble/conventions.rst:57
 msgid "Server: *myhost.de*"
-msgstr "सर्वर: *myhost.de*"
+msgstr "सर्वर :myhost.de"
 
 # ce81eb0a92314624aa3d8c07bd7de66a
 #: ../../source/docs/user_manual/preamble/conventions.rst:58
@@ -181,7 +183,7 @@ msgstr "उपयोगकर्ता टेक्स्ट: ``qgis --help``"
 # d83641a6ce9542188722ede93747a934
 #: ../../source/docs/user_manual/preamble/conventions.rst:64
 msgid "Lines of code are indicated by a fixed-width font"
-msgstr "कोड की लाइनों को एक निश्चित चौड़ाई वाले फ़ॉन्ट द्वारा सांकेतिक है."
+msgstr "कोड की लाइनों को एक निश्चित-चौड़ाई वाले फ़ॉन्ट द्वारा सांकेतिक है"
 
 # 8a4bf4d7a79a4e7b8dc9621829b6e52a
 #: ../../source/docs/user_manual/preamble/conventions.rst:72

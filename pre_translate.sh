@@ -1,24 +1,32 @@
 #!/bin/bash
+
 SPHINXBUILD=`which sphinx-build`
+
 LOCALES='fr de hi it ja ru nl pt_BR'
 #LOCALES='af ar bg ca_ES cs_CZ da_DK de el_GR en es et_EE eu_ES fa fi fr gl_ES he hi hr_HR hu id is it ja ka_GE ko_KR lo lt lv mn nl no pl_PL pt_BR pt_PT ro ru sk sl_SI sq_AL sr_Cyrl sr_Latn sv sw ta th tr uk vi xh zh_CN zh_TW'
+
 if [ $1 ]; then
   LOCALES=$1
 fi
+
 # Create / update the translation catalogue - this will generate the master .pot files
 mkdir -p i18n/pot
 # Create a (temporary) static directory in source to hold all (localised ) static content
 mkdir -p source/static
+
 BUILDDIR=build
 # be sure to remove an old build dir
 rm -rf ${BUILDDIR}
 mkdir -p ${BUILDDIR}
+
 # copy english resources to static to be able to do a proper sphinx-build
 cp -r resources/en/* source/static/
+
 ${SPHINXBUILD} -d ${BUILDDIR}/doctrees -b gettext source i18n/pot/
+
 # Now iteratively update the locale specific .po files with any new strings needed translation
-echo "printed"
-for LOCALE in `hi`
+
+for LOCALE in ${LOCALES}
 do
   echo "Updating translation catalog for ${LOCALE}:"
   echo "------------------------------------"
